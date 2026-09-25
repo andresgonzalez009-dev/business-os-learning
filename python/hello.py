@@ -1,0 +1,1 @@
+print("BusinessOS learning environment is ready.")
